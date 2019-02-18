@@ -82,34 +82,7 @@ public class ArrayUtils {
      * given an array of objects, named `objectArray` return the least frequently occuring object in the array
      */
     public static Object getLeastCommon(Object[] objectArray) {
-//        int count = 0;
-//        int maxCount = objectArray.length;
-//        Object[] result = new Object[objectArray.length];
-//        int k = 0;
-//
-//        for (int i = 0; i < objectArray.length; i++) {
-//            result[i] = -1;
-//
-//            for (int i = 0; i < objectArray.length; i++) {
-//                for (int j = 0; j < objectArray.length; j++) {
-//                    if (objectArray[j] == objectArray[i]) {
-//                        count++;
-//                    }
-//                    if (count <= maxCount) {
-//                        maxCount = count;
-//                        result[k++] == objectArray[i];
-//                    }
-//                    count = 0;
-//                }
-//                for (i:
-//                     result) {
-//                    if (i != -1)
-//                        return result;
-//                }
-//
-//            }
-//
-//        }
+
         return null;
     }
 
